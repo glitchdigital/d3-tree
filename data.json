@@ -21,7 +21,7 @@
       "parent": "Top Level",
       "children": [
         {
-          "name": "Son of B",
+          "name": "Hello world!",
           "parent": "Level 2: B",
           "fill" : "red"
         }
