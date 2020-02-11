@@ -22,7 +22,8 @@
       "children": [
         {
           "name": "Son of B",
-          "parent": "Level 2: B"
+          "parent": "Level 2: B",
+          "fill" : "red"
         }
       ]
     }
