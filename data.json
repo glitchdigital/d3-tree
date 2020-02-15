@@ -23,7 +23,7 @@
         {
           "name": "Hello world!",
           "parent": "Level 2: B",
-          "fill" : "red"
+          "color" : "red"
         }
       ]
     }
