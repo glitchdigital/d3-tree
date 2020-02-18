@@ -1,17 +1,19 @@
 {
-	"name": "hackney100",
+	"name": "hackney service centre",
 	"parent": "null",
 	"children": [{
 			"name": "teams",
-			"parent": "hackney 100",
+			"parent": "hackney service centre",
 			"children": [{
-					"name": "data analysis",
+					"name": "data anyalytics",
 					"parent": "teams"
 				},
 				{
 					"name": "security data",
 					"parent": "teams"
 				}
+				         
+
 			]
 		},
 		{
