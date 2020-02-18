@@ -21,7 +21,7 @@
       "parent": "hackney100",
       "children": [
         {
-          "name": "Hello world!",
+          "name": "Hello world test",
           "parent": "Level 2: B",
           "color" : "red"
         }
