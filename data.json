@@ -1,31 +1,27 @@
-{ 
-  "name": "hackney100",
-  "parent": "null",
-  "children": [
-    {
-      "name": "students",
-      "parent": "top level",
-      "children": [
-        {
-          "name": "Son of A",
-          "parent": "Level 2: A"
-        },
-        {
-          "name": "Daughter of A",
-          "parent": "Level 2: A"
-        }
-      ]
-    },
-    {
-      "name": "Level 2: B",
-      "parent": "top level",
-      "children": [
-        {
-          "name": "Hello world test",
-          "parent": "Level 2: B",
-          "color" : "red"
-        }
-      ]
-    }
-  ]
+{
+	"name": "hackney100",
+	"parent": "null",
+	"children": [{
+			"name": "teams",
+			"parent": "hackney 100",
+			"children": [{
+					"name": "data analysis",
+					"parent": "teams"
+				},
+				{
+					"name": "security data",
+					"parent": "teams"
+				}
+			]
+		},
+		{
+			"name": "Level 2: B",
+			"parent": "top level",
+			"children": [{
+				"name": "Hello world test",
+				"parent": "Level 2: B",
+				"color": "red"
+			}]
+		}
+	]
 }
