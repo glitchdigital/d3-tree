@@ -3,7 +3,7 @@
   "parent": "null",
   "children": [
     {
-      "name": "Level 2: A",
+      "name": "students",
       "parent": "top level",
       "children": [
         {
