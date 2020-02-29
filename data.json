@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
 	"name": "hackney service centre",
 	"parent": "null",
 	"children": [{
@@ -29,3 +30,362 @@
 		}
 	]
 }
+=======
+    "name": "Hackney Council",
+    "parent": "null",
+    "children": [
+      {
+        "name": "Chief Executives",
+        "parent": "Hackney Council",
+        "children": [
+          {
+            "name": "Communication, Culture & Engagement",
+            "parent": "Chief Executives",
+            "children": []
+          },
+          {
+            "name": "Law & Governance",
+            "parent": "Chief Executives",
+            "children": []
+          },
+          {
+            "name": "Strategy, Policy & Economic Development",
+            "parent": "Chief Executives",
+            "children": []
+          },
+          {
+            "name": "HR & Elections",
+            "parent": "Chief Executives",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Children Adult & Community Health",
+        "parent": "Hackney Council",
+        "children": [
+          {
+            "name": "Adult Services",
+            "parent": "Children Adult and Community Health",
+            "children": [
+              {
+                "name": "Adults Commissioning",
+                "parent": "Adult Service",
+                "children": [
+                  {
+                    "name": "Carers Strategy Service",
+                    "parent": "Adults Commissioning",
+                    "children": []
+                  },
+                  {
+                    "name": "Demand Model",
+                    "parent": "Adults Commissioning",
+                    "children": []
+                  },
+                  {
+                    "name": "Service Development team",
+                    "parent": "Adults Commissioning",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Adults Social Care",
+                "parent": "Adult Service",
+                "children": [
+                  {
+                    "name": "Mental Health Services",
+                    "parent": "Adults Social Care",
+                    "children": []
+                  },
+                  {
+                    "name": "Preventative Services",
+                    "parent": "Adults Social Care",
+                    "children": []
+                  },
+                  {
+                    "name": "Provided Services",
+                    "parent": "Adults Social Care",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Personalisation",
+                "parent": "Adult Service",
+                "children": [
+                  {
+                    "name": "Self-Directed Support-Guidence, Forms & Letters",
+                    "parent": "Personalisation",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "ASC Workforce Development Team",
+                "parent": "Adult Service",
+                "children": []
+              },
+              {
+                "name": "Health & Wellbeing Division",
+                "parent": "Adult Service",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Public Health",
+            "parent": "Children Adult and Community Health",
+            "children": []
+          },
+          {
+            "name": "Education & Schools",
+            "parent": "Children Adult and Community Health",
+            "children": []
+          },
+          {
+            "name": "Children & Families",
+            "parent": "Children Adult and Community Health",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Finance & Corporate Resources",
+        "parent": "Hackney Council",
+        "children": [
+          {
+            "name": "Customer Services",
+            "parent": "Finance & Corporate Resources",
+            "children": []
+          },
+          {
+            "name": "Financial Management",
+            "parent": "Finance & Corporate Resources",
+            "children": [
+              {
+                "name": "Accountancy",
+                "parent": "Financial Management",
+                "children": []
+              },
+              {
+                "name": "Financial Management",
+                "parent": "Financial Management",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Strategic Property",
+            "parent": "Finance & Corporate Resources",
+            "children": []
+          },
+          {
+            "name": "Neighbourgoods & Housing Finance",
+            "parent": "Finance & Corporate Resources",
+            "children": []
+          },
+          {
+            "name": "Children, Adults & Community Health Finance",
+            "parent": "Finance & Corporate Resources",
+            "children": []
+          },
+          {
+            "name": "Fleet Management Unit",
+            "parent": "Finance & Corporate Resources",
+            "children": []
+          },
+          {
+            "name": "Hackney Procurement Services",
+            "parent": "Finance & Corporate Resources",
+            "children": []
+          },
+          {
+            "name": "Audit & Anti-Fraud",
+            "parent": "Finance & Corporate Resources",
+            "children": []
+          },
+          {
+            "name": "Corporate Energy Management",
+            "parent": "Finance & Corporate Resources",
+            "children": []
+          },
+          {
+            "name": "Corporate Facilities Management",
+            "parent": "Finance & Corporate Resources",
+            "children": []
+          },
+          {
+            "name": "Corporate ICT Services",
+            "parent": "Finance & Corporate Resources",
+            "children": []
+          },
+          {
+            "name": "Revenues & Benefits",
+            "parent": "Finance & Corporate Resources",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Neighbourhoods & Housing",
+        "parent": "Hackney Council",
+        "children": [
+          {
+            "name": "Public Realm",
+            "parent": "Neighbourhoods & Housing",
+            "children": [
+              {
+                "name": "Environmental Operations",
+                "parent": "Public Realm",
+                "children": []
+              },
+              {
+                "name": "Environment & Waste Stratedy",
+                "parent": "Public Realm",
+                "children": []
+              },
+              {
+                "name": "Parking & Markets",
+                "parent": "Public Realm",
+                "children": []
+              },
+              {
+                "name": "Streetscene",
+                "parent": "Public Realm",
+                "children": []
+              },
+              {
+                "name": "Libraries, Heritage & culture",
+                "parent": "Public Realm",
+                "children": []
+              },
+              {
+                "name": "Leisure & Green Spaces",
+                "parent": "Public Realm",
+                "children": []
+              },
+              {
+                "name": "Planning & Regulatory Services",
+                "parent": "Public Realm",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Housing",
+            "parent": "Neighbourhoods & Housing",
+            "children": [
+              {
+                "name": "Estate Management",
+                "parent": "Housing",
+                "children": []
+              },
+              {
+                "name": "Health & Safety Housing",
+                "parent": "Housing",
+                "children": []
+              },
+              {
+                "name": "Housing Management Procedures",
+                "parent": "Housing",
+                "children": []
+              },
+              {
+                "name": "Housing Agency Workers",
+                "parent": "Housing",
+                "children": []
+              },
+              {
+                "name": "Performance Housing",
+                "parent": "Housing",
+                "children": []
+              },
+              {
+                "name": "Re-Housing",
+                "parent": "Housing",
+                "children": []
+              },
+              {
+                "name": "Resident Participation",
+                "parent": "Housing",
+                "children": []
+              },
+              {
+                "name": "Customer Administration Team",
+                "parent": "Housing",
+                "children": []
+              },
+              {
+                "name": "Housing Modernisation",
+                "parent": "Housing",
+                "children": []
+              },
+              {
+                "name": "Housing Service Building Maintennace (Client) Reorganisation",
+                "parent": "Housing",
+                "children": []
+              },
+              {
+                "name": "Leasehold & Freehold",
+                "parent": "Housing",
+                "children": []
+              },
+              {
+                "name": "Neighbourhood housing Offices",
+                "parent": "Housing",
+                "children": []
+              },
+              {
+                "name": "Resident Sustainment Team",
+                "parent": "Housing",
+                "children": []
+              },
+              {
+                "name": "Responsive Repairs",
+                "parent": "Housing",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Regeneration",
+            "parent": "Neighbourhoods & Housing",
+            "children": [
+              {
+                "name": "Estate Regeneration Programme",
+                "parent": "Regeneration",
+                "children": []
+              },
+              {
+                "name": "Woodberry Down Programme",
+                "parent": "Regeneration",
+                "children": []
+              },
+              {
+                "name": "Housing Supply Programme",
+                "parent": "Regeneration",
+                "children": []
+              },
+              {
+                "name": "Housing Policy & Strategy",
+                "parent": "Regeneration",
+                "children": []
+              },
+              {
+                "name": "Area Regeneration",
+                "parent": "Regeneration",
+                "children": []
+              },
+              {
+                "name": "Private Sector Housing",
+                "parent": "Regeneration",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+>>>>>>> 529ea1ef0eb021dfc3d306709608898cc70a2ced
