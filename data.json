@@ -1,36 +1,4 @@
 {
-<<<<<<< HEAD
-	"name": "hackney service centre",
-	"parent": "null",
-	"children": [{
-			"name": "teams",
-			"parent": "hackney service centre",
-			"children": [{
-					"name": "data anyalytics",
-					"parent": "teams"
-				},
-				{
-					"name": "security data",
-					"parent": "teams"
-				},
-				{
-					"name": "software engineers",
-					"parent": "teams"
-				}
-			]
-		},
-		{
-			"name": "Level 2: B",
-			"parent": "top level",
-			"children": [{
-				"name": "Wibble p'tang",
-				"parent": "Level 2: B",
-				"color": "red"
-			}]
-		}
-	]
-}
-=======
     "name": "Hackney Council",
     "parent": "null",
     "children": [
@@ -388,4 +356,3 @@
       }
     ]
   }
->>>>>>> 529ea1ef0eb021dfc3d306709608898cc70a2ced
