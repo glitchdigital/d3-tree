@@ -1,7 +1,8 @@
-1. Line 56, change "body" to a new "div" so that things can be put underneath it in the main HTML
-1.5 Make it look like the Hackney website
-2. Pull style out into a CSS file
-2.5 Including inline "reds" as new classes
-3. Pull the main JS out into own script
-4. Think about putting it all in an iFrame
-5. https://bl.ocks.org/d3noob/8326869 -- vertical
+Me:
+  Pull out all the inline styles (reds, circle sizes, etc) into the CSS
+  Magic numbers (height 500px, -13s in text) in javascript.js
+  https://bl.ocks.org/d3noob/8326869 -- vertical
+  Add clickable links from JSON to each node for website page and video
+  Make it look like the Hackney website
+Iain:
+  Think about putting it all in an iFrame -- for mobile? See Iain

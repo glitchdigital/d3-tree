@@ -22,7 +22,7 @@
 			"name": "Level 2: B",
 			"parent": "top level",
 			"children": [{
-				"name": "Hello world test",
+				"name": "Wibble p'tang",
 				"parent": "Level 2: B",
 				"color": "red"
 			}]
